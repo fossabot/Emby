@@ -52,4 +52,9 @@ http://emby.media/community
 ![Dashboard](https://raw.github.com/MediaBrowser/MediaBrowser.Resources/master/apps/dashboard.png)
 ![iOS](http://i.imgur.com/prrzxMc.jpg)
 ![iOS](http://i.imgur.com/c9Vd1w5.jpg)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ficebal%2FEmby.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ficebal%2FEmby?ref=badge_shield)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ficebal%2FEmby.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ficebal%2FEmby?ref=badge_large)
